@@ -1,0 +1,59 @@
+- links_category: Closer
+  has_thumbnail: true
+  list: 
+    - name: 文涛
+      link: http://oonb.xyz/
+      description: 我的学习工作伙伴
+      avatar: https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202408311547635.png
+      thumbnail: https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202408311547635.png
+
+- links_category: Normal
+  has_thumbnail: false
+  list: 
+    - name: 时光里的雨
+      link: https://blog.csdn.net/weixin_72910567?app_version=6.4.6&csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22blog%22%2C%22rId%22%3A%220%22%2C%22source%22%3A%22weixin_72910567%22%7D&utm_source=app
+      description: 潜在的网络工程大佬
+      avatar: "https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202408311542417.jpeg"
+    - name: Example Site 2
+      link: https://example.com
+      description: Example Site Description
+      avatar: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+
+- links_category: 知识分享中文站
+  has_thumbnail: false
+  list: 
+    - name: 韩潇老师讲诗词
+      link: https://space.bilibili.com/1315696773
+      description: 北大博士，211硕导；读唐宋诗，唱明清戏，做时代新青年
+      avatar: https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409041233990.avif
+    - name: 张捷说红楼
+      link: https://space.bilibili.com/1955809864/channel/collectiondetail?sid=176060
+      description: 你从小到大看的红楼都白看了
+      avatar: https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409041237854.png
+    - name: 戴建业老师
+      link: https://space.bilibili.com/532741557
+      description: 广东外语外贸大学首席专家，讲历史人物、故事、文化，强烈推荐！
+      avatar: https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409252118075.png
+    - name: 地球知识局
+      link: https://space.bilibili.com/100785033?spm_id_from=333.337.0.0
+      description: 热爱地理的小伙伴们千万不要错过
+      avatar: https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409041239225.avif
+    - name: 幸运的LANCERRR
+      link: https://space.bilibili.com/9038639?spm_id_from=333.337.0.0
+      description: BLAST 官方解说，CS比赛录像传送门，直播时也很专业
+      avatar: https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409041242646.avif
+    - name: 米三汉
+      link: https://space.bilibili.com/392986234/channel/collectiondetail?sid=3074872&ctype=0
+      description: 听红楼，讲历史故事！
+      avatar: https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409041246577.avif
+    - name: 品城记本地版
+      link: https://space.bilibili.com/429582883?spm_id_from=333.337.0.0
+      description: 吃遍广东！！！
+      avatar: https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202409221901438.png
+  # has_thumbnail: false
+  # list: 
+  #   - name: 江南易的博客
+  #     link: https://asiay.asia
+  #     description: 随缘更新文章
+  #     avatar: https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202406032300481.jpg
