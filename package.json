@@ -6,7 +6,9 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server"
+    "server": "hexo server",
+    "deploy-backup": "./deploy-and-backup.sh",
+    "backup": "git add . && git commit -m \"博客更新 $(date '+%Y-%m-%d %H:%M:%S')\" && git push origin main"
   },
   "hexo": {
     "version": "7.3.0"
