@@ -12,8 +12,8 @@ hexo generate
 # 部署到服务器
 hexo deploy
 
-# 或者一条命令完成所有步骤
-hexo clean && hexo generate && hexo deploy
+# 一条命令完成所有步骤并备份到 GitHub
+npm run deploy-backup
 ```
 
 ## 常用命令
