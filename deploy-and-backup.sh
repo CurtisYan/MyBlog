@@ -29,9 +29,8 @@ COMMIT_MSG="${1:-博客更新 $(date '+%Y-%m-%d %H:%M:%S')}"
 
 print_info "开始Hexo博客部署和GitHub备份流程..."
 
-# 1. 清理和生成静态文件
-print_info "步骤1: 清理和生成静态文件..."
-hexo clean
+# 1. 生成静态文件
+print_info "步骤1: 生成静态文件..."
 hexo generate
 
 # 2. 部署到服务器
