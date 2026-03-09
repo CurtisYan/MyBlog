@@ -1275,10 +1275,10 @@ node-fetch@^2.6.7:
   dependencies:
     whatwg-url "^5.0.0"
 
-nodejieba@^3.5.6:
-  version "3.5.6"
-  resolved "https://registry.yarnpkg.com/nodejieba/-/nodejieba-3.5.6.tgz#29b908a76b040b2375f9f038f513a109ea3a546c"
-  integrity sha512-B8TyM9aGKntC0YSa0HC0ZMJe4Yv8MCLI5ogvgXwg7/XNz9Nw2ARwk3bDX3LzQeECDrzO2k99uNDs9bMxpiubHg==
+nodejieba@^3.5.7:
+  version "3.5.7"
+  resolved "https://registry.yarnpkg.com/nodejieba/-/nodejieba-3.5.7.tgz#6a19cc19b1484b904f679da6e303a908dd1c8106"
+  integrity sha512-iNXKScT5NH+OBZXOoIle/Dvn6wFYaEDc6jv6ZG/l1G8/5nZTydgkfWZHEBur+Brl6IV6LrzQD7WpShE30VVlqQ==
   dependencies:
     "@mapbox/node-pre-gyp" "^1.0.10"
     node-addon-api "^5.1.0"
